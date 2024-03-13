@@ -42,3 +42,14 @@ Implementation of AI/ML into a generic HR Software MVP at any company
 10. **Stay Updated on AI Advancements**: 
      - Keep up to date with the latest developments in AI and ML technologies. 
      - Foster a culture of innovation and experimentation within your organization to leverage emerging AI trends effectively.
+
+# Frameworks
+For NLP (Natural Language Processing) and predictive analytics in HR software development, the following frameworks and tools are particularly well-suited:
+
+- **TensorFlow**: TensorFlow is a powerful open-source library for machine learning and deep learning. It supports a wide range of NLP tasks, including text classification, sentiment analysis, and language translation. TensorFlow's flexibility and scalability make it a great choice for developing complex NLP models and predictive analytics systems.
+
+- **PyTorch**: PyTorch, developed by Facebook's AI Research lab, is another excellent choice for NLP and predictive analytics. It offers dynamic computational graphing, which is beneficial for developing and debugging NLP models. PyTorch's ease of use and flexibility make it a popular choice among researchers and developers working on NLP and predictive analytics.
+
+- **Scikit-Learn**: While Scikit-Learn is primarily known for its simplicity and efficiency in machine learning, it also supports a variety of NLP tasks through its text processing tools. For predictive analytics, Scikit-Learn provides a range of algorithms that can be used for classification, regression, and clustering, making it a versatile tool for HR analytics.
+
+- **Keras**: Keras is a high-level neural networks API that runs on top of TensorFlow, CNTK, or Theano. It's user-friendly and easy to prototype with, making it a good choice for developing NLP models and predictive analytics systems. Keras's modular and extensible design allows for easy experimentation and customization.
